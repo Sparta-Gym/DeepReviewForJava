@@ -21,7 +21,6 @@
   + 배열 -> 선언이(c와는 달랐던 것으로 기억)
   + try - catch(js와 차이가 있는지?)
   + stdin, stdout하는 방법, scanner, system.out.println 등등 복기하기
-  + 
 + 객체지향 프로그래밍 컨셉
   + 클래스와 객체
   + 변수에 메서드
